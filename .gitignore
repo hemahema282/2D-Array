@@ -1,0 +1,19 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# IDE specific files (VS Code, IntelliJ, Eclipse)
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.iws
+.vscode/
+bin/
+out/
